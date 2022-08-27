@@ -1,4 +1,4 @@
-# Content based movie recommedation app
+# Content based movie recommendation app
 ![made-with-python](https://img.shields.io/badge/Made%20with-Python-0078D4.svg)
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-2C2D72?logo=pandas&logoColor=white)
@@ -7,7 +7,7 @@
 ![terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?&logo=Windows%20terminal&logoColor=white)
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?&logo=visual%20studio%20code&logoColor=white)
 
-Content based movie recommedation app is used to recommend movies to the user using cosine similarity method.
+Content based movie recommendation app is used to recommend movies to the user created using cosine similarity measure.
 
 ## Installation
 Open command prompt and create new environment
@@ -20,7 +20,7 @@ conda activate your_env_name
 ```
 Clone the repository using `git`
 ```
-git clone https://github.com/Prakashdeveloper03/Content-based-movie-recommedation-app.git
+git clone https://github.com/Prakashdeveloper03/Content-based-movie-recommendation-app.git
 ```
 Change to the cloned directory
 ```
